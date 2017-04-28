@@ -7,7 +7,7 @@ message = options[:message]
 
 # 具体这个巷道上面执行哪些行为
 # 1.git_pull
-git_pull
+#git_pull
 # 2. git add .
 git_add(path: ".")
 # 3   git commit -m 'xxx'
